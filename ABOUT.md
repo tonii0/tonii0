@@ -31,5 +31,5 @@
 
 
 [website]: https://tonibusatta.fr
-[twitter]: https://twitter.com/bxsvttv
+[twitter]: https://twitter.com/busattv
 [linkedin]: https://www.linkedin.com/in/toni-busatta-8869b3206/
