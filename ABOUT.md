@@ -2,13 +2,12 @@
 
 <br />
 
-## I'm a Young Frond-End Develloper
+## I'm a Creative Frond-End Developer
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- I have a year of experience
+- I am constantly trying to master the web languages
+- I’m looking to collaborate with other developer and designer
+- 2022 Goals: Earn an honourable mention on Awwwards
 
 ### Connect with me:
 
