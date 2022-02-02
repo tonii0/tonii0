@@ -28,22 +28,9 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br />
-<br />
-
-## this week i spent my time on:
-<!--START_SECTION:waka-->
-```text
-JavaScript   10 hrs 37 mins  ██████████████████░░░░░░░   71.48 % 
-TypeScript   3 hrs 42 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.90 % 
-CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-```
-<!--END_SECTION:waka-->
 
 
 
-[website]: https://flytzwoo.github.io/Portfolio-2022/
+[website]: https://tonibusatta.fr
 [twitter]: https://twitter.com/bxsvttv
 [linkedin]: https://www.linkedin.com/in/toni-busatta-8869b3206/
